@@ -2,7 +2,7 @@
 This repository has the Matlab scripts needed to run the the Neural Third-Octave Graphic Equalizer (NGEQ3), introduced in the Proceedings of DAFx-19 conference by Jussi Rämö and Vesa Välimäki.
 
 ## Instructions for the Matlab Scripts
-The Matlab scripts for the neural third-order graphic equalizers can be found in the folder NGEQ3scripts. The folder includes the following files:
+The Matlab scripts for the Neural Third-Order Graphic Equalizer can be found in the folder NGEQ3scripts. The folder includes the following files:
 
     - GEQfilter3.m
     - NGEQ3_MatlabNetworkObj.mat
